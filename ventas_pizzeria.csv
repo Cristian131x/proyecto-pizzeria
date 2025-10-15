@@ -1,0 +1,51 @@
+fecha,dia_semana,nombre_pizza,cantidad,precio
+2025-09-22,Lunes,Pepperoni,1,10500
+2025-09-22,Lunes,Margarita,2,9500
+2025-09-23,Martes,Hawaiana,1,11000
+2025-09-23,Martes,Vegetariana,1,11500
+2025-09-24,Miercoles,Cuatro Quesos,1,12500
+2025-09-24,Miercoles,Napolitana,1,10000
+2025-09-24,Miercoles,Pepperoni,2,10500
+2025-09-25,Jueves,BBQ Pollo,1,13000
+2025-09-25,Jueves,Margarita,1,9500
+2025-09-26,Viernes,Suprema,2,14000
+2025-09-26,Viernes,Pepperoni,3,10500
+2025-09-26,Viernes,Hawaiana,1,11000
+2025-09-26,Viernes,Cuatro Quesos,1,12500
+2025-09-27,Sabado,Margarita,2,9500
+2025-09-27,Sabado,BBQ Pollo,1,13000
+2025-09-27,Sabado,Vegetariana,1,11500
+2025-09-27,Sabado,Suprema,3,14000
+2025-09-28,Domingo,Pepperoni,2,10500
+2025-09-28,Domingo,Napolitana,1,10000
+2025-09-29,Lunes,Hawaiana,1,11000
+2025-09-30,Martes,Margarita,1,9500
+2025-10-01,Miercoles,Cuatro Quesos,1,12500
+2025-10-01,Miercoles,Pepperoni,1,10500
+2025-10-02,Jueves,Vegetariana,2,11500
+2025-10-03,Viernes,BBQ Pollo,1,13000
+2025-10-03,Viernes,Suprema,1,14000
+2025-10-03,Viernes,Pepperoni,2,10500
+2025-10-04,Sabado,Hawaiana,1,11000
+2025-10-04,Sabado,Margarita,3,9500
+2025-10-04,Sabado,Cuatro Quesos,1,12500
+2025-10-05,Domingo,Napolitana,2,10000
+2025-10-05,Domingo,Pepperoni,1,10500
+2025-10-06,Lunes,Vegetariana,1,11500
+2025-10-07,Martes,Suprema,1,14000
+2025-10-08,Miercoles,BBQ Pollo,1,13000
+2025-10-08,Miercoles,Margarita,1,9500
+2025-10-09,Jueves,Pepperoni,1,10500
+2025-10-10,Viernes,Hawaiana,2,11000
+2025-10-10,Viernes,Cuatro Quesos,1,12500
+2025-10-10,Viernes,Suprema,1,14000
+2025-10-11,Sabado,Pepperoni,2,10500
+2025-10-11,Sabado,Napolitana,1,10000
+2025-10-11,Sabado,Vegetariana,1,11500
+2025-10-12,Domingo,Margarita,1,9500
+2025-10-12,Domingo,BBQ Pollo,1,13000
+2025-10-13,Lunes,Cuatro Quesos,1,12500
+2025-10-14,Martes,Pepperoni,1,10500
+2025-10-14,Martes,Hawaiana,1,11000
+2025-10-15,Miercoles,Margarita,1,9500
+2025-10-15,Miercoles,Suprema,1,14000
